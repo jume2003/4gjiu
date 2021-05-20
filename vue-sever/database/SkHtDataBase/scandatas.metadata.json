@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"SkHtDataBase.scandatas"}],"uuid":"8fda3605223b45c2a23df506273eee3c"}

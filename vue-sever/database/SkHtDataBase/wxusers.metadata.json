@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"SkHtDataBase.wxusers"}],"uuid":"b1a1c966a8564c609bc8de0763218150"}

@@ -1,0 +1,58 @@
+db.device.insert({
+    "device_code" : "123",
+    "device_name" : "456",
+    "device_gps" : "789",
+    "hotel_id" : "1011",
+    "is_online" : true,
+    "try_count" : 0.0,
+    "free_times" : 0.0,
+    "image_uri" : "http:www.baidu.com"
+})
+
+db.hotel.insert({
+    "hotel_name" : "123",
+    "tel" : "456",
+    "role" : "admin",
+    "username" : "1011",
+    "password" : "456",
+    "money" : 1000.0,
+    "token" : "4555",
+    "enabel" : true
+})
+
+db.order.insert({
+    "order_no" : "123",
+    "device_id" : "456",
+    "device_name" : "444",
+    "user_id" : "789",
+    "username" : "8888",
+    "tel" : "110",
+    "product_id" : "123",
+    "product_name" : "888",
+    "product_imgurl" : "www.baidu.com",
+    "price" : 456.5,
+    "count" : 10.0,
+    "date" : "555",
+    "status" : false
+})
+
+db.wxuser.insert({
+    "access_token" : "123",
+    "openid" : "456",
+    "nickname" : "789",
+    "sex" : "1",
+    "province" : "PROVINCE",
+    "city" : "CITY",
+    "country" : "COUNTRY",
+    "headimgurl" : "123",
+    "tel" : "78979"
+})
+
+
+
+
+
+
+
+
+

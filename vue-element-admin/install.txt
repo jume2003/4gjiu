@@ -1,0 +1,4 @@
+127.0.0.1:1631
+cnpm config set registry=http://registry.npmjs.org
+cnpm config set proxy=http://127.0.0.1:1631
+git clone -b i18n https://github.com/PanJiaChen/vue-element-admin.git
